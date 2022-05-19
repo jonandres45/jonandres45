@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés Ortiz</h1>
-<h3 align="center">A passionate frontend developer from México :)</h3>
+<h3 align="center">A passionate front - end developer from México :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonandres45&label=Profile%20views&color=0e75b6&style=flat" alt="jonandres45" /> </p>
 
