@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [My briefcase and capri en linea](caprienlinea.com)
 
-- 🌱 I’m currently learning **next js and Ionic**
+- 🌱 I’m currently learning **React advanced**
 
-- 📫 How to reach me **ansa1315@outlook.es**
+- 📫 How to reach me **contact@andresjs.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
